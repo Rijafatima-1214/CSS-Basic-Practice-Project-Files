@@ -1,0 +1,145 @@
+html {
+  font-size: 16px;
+}
+body {
+  color: #55206d;
+  background-color: #fff8f0;
+  font-family: "Inter", sans-serif;
+  font-weight: 400px;
+  line-height: 24px;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: #190d37;
+  font-family: "League Spartan";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 50px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+h2 {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.bigtext {
+  color: #331e6a;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+}
+#hero-section {
+  display: flex;
+  max-width: 1440px;
+  margin: 0 auto 48px auto;
+}
+#hero-text {
+  width: 50%;
+  padding: 32px 20px 32px 20px;
+}
+#hero-img {
+  width: 100%;
+  border: 10px solid red;
+  border-radius: 15%;
+}
+.contact {
+  color: #000;
+  font-family: "Inter";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.name {
+  color: #291854;
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.btn {
+  color: #fff;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  background-color: #000;
+  margin: 20px;
+}
+#Pricing-section {
+  max-width: 1060px;
+  margin: 0 auto;
+}
+.overtitle {
+  text-transform: uppercase;
+  font-family: "Poppins";
+  font-size: 12px;
+  font-weight: 600px;
+  line-height: 18px;
+  color: #2858ff;
+  text-align: center;
+}
+#pricing-boxes {
+  display: flex;
+}
+.pricingbox {
+  width: 33.3%;
+}
+.pricingcards {
+  background-color: white;
+  margin: 0 10px;
+  border-radius: 10px;
+  box-shadow: 6px 2px 25px -9px blueviolet;
+  padding: 20px;
+}
+.service {
+  font-size: 14px;
+  font-weight: 500px;
+  line-height: 21px;
+  text-transform: uppercase;
+  color: #2858ff;
+}
+.price {
+  font-family: "Poppins";
+  font-family: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  color: #000;
+  margin-top: 8px;
+}
+.service-description {
+  font-family: "Poppins";
+  font-family: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  color: #8b8b8b;
+  margin-top: 8px;
+}
+.service-benefits {
+  padding: 0;
+  font-family: "Poppins";
+  font-family: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  color: #000;
+  margin-top: 8px;
+}
+.btn {
+  width: 100%;
+  padding: 12px;
+  height: 44px;
+  border-radius: 4px;
+  border-width: 1px;
+  border: 2px solid #2858ff;
+  background-color: white;
+}
+.btn:hover {
+  background-color: aqua;
+  color: #000;
+  cursor: pointer;
+}

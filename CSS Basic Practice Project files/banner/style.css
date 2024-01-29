@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+  color: antiquewhite;
+  font-family: "Rammetto One", sans-serif;
+}
+.ad {
+  background-color: #35654d;
+  border: 5px solid #a3bc71;
+  text-align: center;
+}
+.span {
+  color: red;
+  border: 2px solid #a3bc71;
+  padding: 5px 10px;
+  background-color: burlywood;
+}

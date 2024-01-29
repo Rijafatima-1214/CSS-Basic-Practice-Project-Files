@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  font-family: "Happy Monkey", system-ui;
+  background-color: #2e294e;
+  color: white;
+}
+
+#img {
+  border: 15px solid #011638;
+  border-radius: 50%;
+}
+.shadow {
+  text-shadow: 0px 0px 1px black;
+}
+h3,
+h4 {
+  background-color: #011638;
+}
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+div:hover {
+  background-color: bisque;
+  font-size: larger;
+}
+.hover-img:hover {
+  background-image: url(https://images.unsplash.com/photo-1562777717-dc6984f65a63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmlydGhkYXklMjBnaWZ0c3xlbnwwfHwwfHx8MA%3D%3D);
+  background-size: cover;
+}

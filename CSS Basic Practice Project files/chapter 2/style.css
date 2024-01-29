@@ -1,0 +1,26 @@
+body {
+  font-size: 22px;
+  border: 3px solid black;
+}
+p {
+  color: purple;
+}
+.grey {
+  color: black;
+}
+#second {
+  font-style: italic;
+}
+h3 {
+  color: blue;
+}
+
+p span {
+  text-transform: uppercase;
+  background-color: brown;
+}
+
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 1px solid red;
+}
